@@ -1,0 +1,8 @@
+{
+  "name": "ai-marketing-automation",
+  "private": true,
+  "scripts": {
+    "test": "python -m pytest tests/",
+    "start": "PYTHONPATH=/home/project/src python src/main.py"
+  }
+}

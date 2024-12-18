@@ -1,0 +1,6 @@
+campaign_id,impressions,clicks,conversions,spend,revenue,status
+1,10000,150,10,500.00,2500.00,Active
+2,15000,75,5,400.00,450.00,Active
+3,20000,400,25,800.00,3500.00,Active
+4,8000,200,15,600.00,2800.00,Active
+5,12000,50,2,300.00,200.00,Active
